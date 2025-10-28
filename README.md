@@ -8,19 +8,19 @@ This helps save time, maintain consistency across your workflow, reduce errors, 
 ![Workflow Batch Assignment](./article_workflow_batch_assignment_overview_1.png)
 
 ### Getting Started
-1. Use this module to manually apply workflow rule(s) to all patients or a subgroup at once.  
-2. **Person Search Button:** Open Patient Lookup and select one or more patients.  
+Use this module to manually apply workflow rule(s) to all patients or a subgroup at once.  
+1. **Person Search Button:** Open Patient Lookup and select one or more patients.  
    > **Tip:** Use Advanced Search to narrow down your patient selection.  
-3. **Three-dot Menu:** Manage the selected patient list:  
+2. **Three-dot Menu:** Manage the selected patient list:  
    - Add to list: Adds new patients to an existing list.  
    - Replace list: Replaces the current list with newly selected patients.  
    - Clear list: Removes all selected patients from the list.  
-4. **Rules:** Select one or multiple workflow rules from the list of active workflows.  
-5. **Include Duplicate Rules:**  
+3. **Rules:** Select one or multiple workflow rules from the list of active workflows.  
+4. **Include Duplicate Rules:**  
    - Unchecked: Workflow assigned only to new patients.  
    - Checked: Workflow also assigned to patients who already have it.  
-6. **Assign Rules Button:** Click to assign workflow rule(s) to the selected patients.  
-7. **Cancel Button:** Cancels the operation without saving or applying changes.
+5. **Assign Rules Button:** Click to assign workflow rule(s) to the selected patients.  
+6. **Cancel Button:** Cancels the operation without saving or applying changes.
 
 ### FAQs
 
