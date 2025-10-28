@@ -36,9 +36,3 @@ Global Search > Patient Task Dashboard.
 
 [Q] When should I use the Workflow Batch Assignment feature?  
 [A] Use it to assign standardized workflows—like periodic assessments, care plans, or checklists—to multiple patients simultaneously.  
-
-[Q] What does 'Include Duplicate Rules' mean?  
-[A] This option determines whether a workflow can be reassigned to patients who already have it.  
-- Use it to reassign or re-trigger workflows.  
-- Leave unchecked if a workflow should only be completed once per patient.
-
