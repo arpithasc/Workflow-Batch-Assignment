@@ -5,9 +5,9 @@ This helps save time, maintain consistency across your workflow, reduce errors, 
 
 > **Tip:** Workflow assignments are not applied retroactively. Workflow tasks will not be triggered for existing or past records. Due dates for tasks are calculated from the assignment date onward.
 
-![Workflow Batch Assignment](./article_workflow_batch_assignment_overview_1.png)
-
 ### Getting Started
+
+![Workflow Batch Assignment](./article_workflow_batch_assignment_overview_1.png)
 Use this module to manually apply workflow rule(s) to all patients or a subgroup at once.  
 1. **Person Search Button:** Open Patient Lookup and select one or more patients.  
    > **Tip:** Use Advanced Search to narrow down your patient selection.  
@@ -21,6 +21,8 @@ Use this module to manually apply workflow rule(s) to all patients or a subgroup
    - Checked: Workflow also assigned to patients who already have it.  
 5. **Assign Rules Button:** Click to assign workflow rule(s) to the selected patients.  
 6. **Cancel Button:** Cancels the operation without saving or applying changes.
+
+---
 
 ### FAQs
 
