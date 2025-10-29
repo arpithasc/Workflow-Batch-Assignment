@@ -5,6 +5,9 @@ This helps save time, maintain consistency across your workflow, reduce errors, 
 
 > **Tip:** Workflow assignments are not applied retroactively. Workflow tasks will not be triggered for existing or past records. Due dates for tasks are calculated from the assignment date onward.
 
+---
+
+
 ### Getting Started
 
 ![Workflow Batch Assignment](./article_workflow_batch_assignment_overview_1.png)
